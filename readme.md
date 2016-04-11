@@ -2,4 +2,4 @@
 
 ----
 
-![ioduino](images/ioduino.png)
+![ioduino](images/ioduino-f.png)
